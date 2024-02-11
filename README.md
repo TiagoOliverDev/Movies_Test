@@ -2,8 +2,9 @@
 Movies Test is a website created in React that allows the user to search by movie, filter by genre and see the details
 <hr/>
 
-![background](https://github.com/TiagoOliverDev/Movies_Test/blob/main/src/assets/images/ft1.png)
-![background](https://github.com/TiagoOliverDev/Movies_Test/blob/main/src/assets/images/ft2.png)
+![background](https://github.com/TiagoOliverDev/Movies_Test/blob/refactor/ajustar-readme/src/assets/images/ft1.png)
+![background](https://github.com/TiagoOliverDev/Movies_Test/blob/refactor/ajustar-readme/src/assets/images/ft2.png)
+
 
 <hr/>
 
