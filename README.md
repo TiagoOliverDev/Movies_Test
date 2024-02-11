@@ -1,14 +1,15 @@
-<h1 align="center">BlueBird-Movies</h1>
-BlueBird-Movies is a React-based movie website that allows users to search for movies by title, sort them by genre, view trending and upcoming movies, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
+<h1 align="center">Movies Test</h1>
+Movies Test is a website created in React that allows the user to search by movie, filter by genre and see the details
 <hr/>
 
-![background](https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png)
+![background](https://github.com/TiagoOliverDev/Movies_Test/blob/main/src/assets/images/ft1.png)
+![background](https://github.com/TiagoOliverDev/Movies_Test/blob/main/src/assets/images/ft2.png)
 
 <hr/>
 
-# 🍿 Features 
+# Features 
 
-- Search and watch movies: users can search for movies by title and can watch them easily
+- Pesquise e assista a filmes: os usuários podem pesquisar filmes por título e assisti-los facilmente
 - Genre-wise display: movies can be sorted by genre
 - Trending Movies: displays a section for trending movies
 - Upcoming movies: displays a section for upcoming movies
@@ -18,9 +19,9 @@ BlueBird-Movies is a React-based movie website that allows users to search for m
 
 <hr/>
 
-# 🍿 Technology
+# Technology
 
-BlueBird-Movies is built using the following technologies:
+Movies Test is built using the following technologies:
 
 - ReactJS
 - TMDB API
@@ -29,7 +30,7 @@ BlueBird-Movies is built using the following technologies:
 
 <hr/>
 
-# 🍿 How to Run the Website on Your System
+# How to Run the Website on Your System
 
 ## Step 1: Download and Extract the Code
 
@@ -78,7 +79,7 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 <hr/>
 
-# 🍿 Demo 
+# Demo 
 
 - Check out our live demo at https://bluebirdmovies.netlify.app/ 
  
