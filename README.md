@@ -81,7 +81,7 @@ Note that Firebase is only required for Google authentication. If you are not us
 
 ## Step 3: Run the project
 
-Open a terminal and run the following command:
+Open folder project and open a terminal and run the following command:
 
 ```bash
 npm run dev
@@ -106,7 +106,7 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/tushar-2223/BlueBird-Movies/issues).
+- Feel free to check the [issues page](https://github.com/TiagoOliverDev/Movies_Test/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
