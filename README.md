@@ -94,7 +94,7 @@ Note: Ensure that you have carefully added the TMDB API key and Firebase authent
 
 # Demo 
 
-- Check out our live demo at https://bluebirdmovies.netlify.app/ 
+- Click: https://movies-test-silk.vercel.app/
  
 
 ## Author
