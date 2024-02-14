@@ -11,7 +11,7 @@ Movies Test is a website created in React that allows the user to search by movi
 
 # Features 
 
-- Pesquise e assista a filmes: os usuários podem pesquisar filmes por título e assisti-los facilmente
+- Search and watch movies: Users can search movies by title and watch them easily
 - Genre-wise display: movies can be sorted by genre
 - Trending Movies: displays a section for trending movies
 - Upcoming movies: displays a section for upcoming movies
